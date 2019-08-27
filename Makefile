@@ -1,3 +1,4 @@
 all:
 	gcc -c *.c
 
+
